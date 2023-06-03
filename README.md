@@ -7,5 +7,5 @@ description: THE FIRST BLOCKCHAIN MOVIE FRANCHISE
 <figure><img src=".gitbook/assets/orion-geekypunk.png" alt=""><figcaption><p>Orion - GeekyPunks</p></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=52hUEV0aO-Q" %}
-GEEKY PUNK INTRO
+GEEKY PUNKS INTRO
 {% endembed %}
