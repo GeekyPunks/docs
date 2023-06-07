@@ -14,8 +14,8 @@
 
 
 
-1. Liquidity Pool (30%): 300 billion GP tokens will be locked into a liquidity pool.&#x20;
-2. Development & Operations (30%): 300 billion GP tokens will be reserved for development and operations. This pool will finance ongoing project development, staff costs, and other operational expenses.
+1. Liquidity Pool (30%): 300 billion GP tokens will be locked into a liquidity pool .(this will be done slowly over a period of time)&#x20;
+2. Development & Operations (30%): 300 billion GP tokens will be reserved for development and operations. This pool will finance ongoing project development, staff costs, and other operational expenses.&#x20;
 3. Marketing & Partnerships (15%): 150 billion GP tokens will be used for marketing and partnerships. This fund will help us promote the franchise, secure strategic partnerships, and incentivize user acquisition and retention.
 4. Rewards & Community Initiatives (15%): 150 billion GP tokens will be reserved for user rewards and community initiatives. This includes staking rewards, content creation incentives, and community governance initiatives, promoting active engagement and sustained growth within our community.
 5. Team & Advisors (7%): 70 billion GP tokens will be distributed to the team and advisors. These will be vested over a period (4 years) with a cliff period (1 year) to ensure long-term commitment.

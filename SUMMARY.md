@@ -5,3 +5,4 @@
 * [IMMENENT LAUNCH ROADMAP](immenent-launch-roadmap.md)
 * [OFFICIAL TOKENOMICS](official-tokenomics.md)
 * [Branding Kit](branding-kit.md)
+* [ALLOCATION ADDRESSES](allocation-addresses.md)
