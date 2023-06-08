@@ -1,3 +1,7 @@
+---
+description: Redeployment pending
+---
+
 # ALLOCATION ADDRESSES
 
 **Rewards & Community Initiatives** : [`0xA9C210d669478394B77796b4AC5160d2D02D12B5`](https://etherscan.io/address/0xa9c210d669478394b77796b4ac5160d2d02d12b5#tokentxns)
