@@ -6,3 +6,4 @@
 * [OFFICIAL TOKENOMICS](official-tokenomics.md)
 * [Branding Kit](branding-kit.md)
 * [ALLOCATION ADDRESSES](allocation-addresses.md)
+* [Credits](credits.md)
